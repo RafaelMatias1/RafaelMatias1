@@ -38,11 +38,6 @@ Aprender continuamente, colaborar em equipe e enfrentar novos desafios na área 
 
 ---
 
-## 🌐 Meu Web Portfolio
-
-🔗 [Acesse Aqui](https://seu-link-portfolio.com)
-
----
 
 ## 🛠️ Habilidades Técnicas
 
