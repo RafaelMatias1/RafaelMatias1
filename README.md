@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Tenho 19 anos e sou estudante de tecnologia com foco em desenvolvimento Full Stack. Busco sempre aprender, evoluir e encarar desafios que me façam crescer como desenvolvedor e pessoa.
+Tenho 20 anos e sou estudante de tecnologia com foco em desenvolvimento Full Stack. Busco sempre aprender, evoluir e encarar desafios que me façam crescer como desenvolvedor e pessoa.
 
 ---
 
