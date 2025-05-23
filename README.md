@@ -18,7 +18,7 @@ Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de
 ## 🎓 Formação
 
 - 🏫 **Técnico em Desenvolvimento de Sistemas** – SENAI Florianópolis (Concluído em 2024)
-- 🎓 **Análise e Desenvolvimento de Sistemas** – SENAI Florianópolis (Desde 2024)
+- 🎓 **Análise e Desenvolvimento de Sistemas** – SENAI Florianópolis (Concluído em 2026)
 
 ---
 
